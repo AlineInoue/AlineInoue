@@ -19,6 +19,6 @@
   <img align="right" alt="Aline-gif" height="150" style="border-radius:50px;" src=  "https://media.giphy.com/media/03njSXxICKzw5otlxL/giphy.gif?cid=790b76119e03ac33d17d0f4adbf27d012258b6571736d5f2&rid=giphy.gif&ct=g">
 </div>
   
-  ###
+  ##
   
   ![Snake animation](https://github.com/alineinoue/alineinoue/blob/output/github-contribution-grid-snake.svg)
