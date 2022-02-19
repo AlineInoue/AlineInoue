@@ -14,7 +14,14 @@
   <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aline-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Aline-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Aline-Git"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img align="center" alt="Aline-Java"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+
+
   <img align="right" alt="Aline-gif" height="150" style="border-radius:50px;" src=  "https://media.giphy.com/media/03njSXxICKzw5otlxL/giphy.gif?cid=790b76119e03ac33d17d0f4adbf27d012258b6571736d5f2&rid=giphy.gif&ct=g">
+  <img align
 </div>
   
   ##
