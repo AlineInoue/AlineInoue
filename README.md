@@ -7,8 +7,8 @@
 
 ---
 
-## 🚀 Minhas Skills
-<div style="display: inline_block"><br>
+**🚀 Minhas Skills**
+<div style="display: inline_block">
   <img align="center" alt="Aline-PC" height="30" width="40" src="https://www.svgrepo.com/show/125599/bug.svg">
   <img align="center" alt="Aline-CY" height="30" width="30" src="https://www.svgrepo.com/show/353630/cypress.svg">
   <img align="center" alt="Aline-CUCUMB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
